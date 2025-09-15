@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Node.js",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/api/index.ts",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "outFiles": ["${workspaceFolder}/build/**/*.js"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

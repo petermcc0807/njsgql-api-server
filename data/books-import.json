@@ -1,0 +1,152 @@
+[
+    {
+        "uuid": "b1a2c3d4-e5f6-7890-abcd-ef1234567890",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "978-0743273565"
+    },
+    {
+        "uuid": "c2d3e4f5-g6h7-8901-bcde-fg2345678901",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "978-0446310789"
+    },
+    {
+        "uuid": "d3e4f5g6-h7i8-9012-cdef-gh3456789012",
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "978-0451524935"
+    },
+    {
+        "uuid": "e4f5g6h7-i8j9-0123-defg-hi4567890123",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "978-0141439518"
+    },
+    {
+        "uuid": "f5g6h7i8-j9k0-1234-efgh-ij5678901234",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "978-0316769488"
+    },
+    {
+        "uuid": "g6h7i8j9-k0l1-2345-fghi-jk6789012345",
+        "title": "Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isbn": "978-0544003415"
+    },
+    {
+        "uuid": "h7i8j9k0-l1m2-3456-ghij-kl7890123456",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn": "978-0547928227"
+    },
+    {
+        "uuid": "i8j9k0l1-m2n3-4567-hijk-lm8901234567",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn": "978-0060850524"
+    },
+    {
+        "uuid": "j9k0l1m2-n3o4-5678-ijkl-mn9012345678",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "isbn": "978-0142437247"
+    },
+    {
+        "uuid": "k0l1m2n3-o4p5-6789-jklm-no0123456789",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "isbn": "978-0140268867"
+    },
+    {
+        "uuid": "l1m2n3o4-p5q6-7890-klmn-op1234567890",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "978-0143058144"
+    },
+    {
+        "uuid": "m2n3o4p5-q6r7-8901-lmno-pq2345678901",
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "isbn": "978-0142437223"
+    },
+    {
+        "uuid": "n3o4p5q6-r7s8-9012-mnop-qr3456789012",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "isbn": "978-0143039990"
+    },
+    {
+        "uuid": "o4p5q6r7-s8t9-0123-nopq-rs4567890123",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "978-0374528379"
+    },
+    {
+        "uuid": "p5q6r7s8-t9u0-1234-opqr-st5678901234",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "isbn": "978-0141441146"
+    },
+    {
+        "uuid": "q6r7s8t9-u0v1-2345-pqrs-tu6789012345",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "isbn": "978-0141439556"
+    },
+    {
+        "uuid": "r7s8t9u0-v1w2-3456-qrst-uv7890123456",
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "isbn": "978-0141439563"
+    },
+    {
+        "uuid": "s8t9u0v1-w2x3-4567-rstu-vw8901234567",
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "isbn": "978-0679722762"
+    },
+    {
+        "uuid": "t9u0v1w2-x3y4-5678-stuv-wx9012345678",
+        "title": "The Iliad",
+        "author": "Homer",
+        "isbn": "978-0140275360"
+    },
+    {
+        "uuid": "u0v1w2x3-y4z5-6789-tuvw-xy0123456789",
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "isbn": "978-1451626650"
+    },
+    {
+        "uuid": "v1w2x3y4-z5a6-7890-uvwx-yz1234567890",
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "isbn": "978-0143039433"
+    },
+    {
+        "uuid": "w2x3y4z5-a6b7-8901-vwxy-za2345678901",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": "978-0451526342"
+    },
+    {
+        "uuid": "x3y4z5a6-b7c8-9012-wxyz-ab3456789012",
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "isbn": "978-0385333849"
+    },
+    {
+        "uuid": "y4z5a6b7-c8d9-0123-xyza-bc4567890123",
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "isbn": "978-0743297332"
+    },
+    {
+        "uuid": "z5a6b7c8-d9e0-1234-yzab-cd5678901234",
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "isbn": "978-1400033416"
+    }
+]

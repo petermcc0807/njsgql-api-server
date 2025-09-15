@@ -1,0 +1,7 @@
+/build
+/data/books-import-export.txt
+/node_modules
+
+.env
+
+package-lock.json
